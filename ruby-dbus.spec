@@ -7,7 +7,7 @@ Summary:        Ruby module for interaction with D-Bus
 Summary(pl.UTF-8):	Moduł języka Ruby do współpracy z D-Bus
 Name:		ruby-dbus
 Version:	0.11.0
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Source0:	https://github.com/mvidner/ruby-dbus/archive/v%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	d53e2a07d65bff1eb65910db836cd1f2
