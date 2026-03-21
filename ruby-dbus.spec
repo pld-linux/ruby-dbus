@@ -1,5 +1,6 @@
 %define pkgname dbus
-Summary:	Pure Ruby module for interaction with D-Bus IPC system
+Summary:	Ruby module for interaction with D-Bus
+Summary(pl.UTF-8):	Moduł języka Ruby do współpracy z D-Bus
 Name:		ruby-%{pkgname}
 Version:	0.25.0
 Release:	1
@@ -16,7 +17,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Pure Ruby module for interaction with D-Bus IPC system.
+Ruby module for interaction with D-Bus.
+
+%description -l pl.UTF-8
+Moduł języka Ruby do współpracy z D-Bus.
 
 %prep
 %setup -q -n ruby-%{pkgname}-%{version}
