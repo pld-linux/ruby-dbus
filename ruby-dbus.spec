@@ -3,7 +3,7 @@ Summary:	Ruby module for interaction with D-Bus
 Summary(pl.UTF-8):	Moduł języka Ruby do współpracy z D-Bus
 Name:		ruby-%{pkgname}
 Version:	0.25.0
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Development/Languages
 Source0:	https://rubygems.org/downloads/ruby-%{pkgname}-%{version}.gem
